@@ -1,0 +1,335 @@
+.logo {
+    font-family: "Roboto";
+    font-weight: bold;
+    font-size: 20px;
+    color: white;
+    border-style: solid;
+    border-width: 2px;
+    border-color: #4b6cc1;
+    padding: 10px;
+    padding-right: 11px;
+    padding-left: 11px;
+}
+
+#home {
+    color: white;
+}
+
+#about-me {
+    color: white;
+}
+
+#projects {
+    color: white;
+}
+
+#services {
+    color: white;
+}
+
+#testimonial {
+    color: white;
+}
+
+.home-section-bg-container {
+    height: 800px;
+    padding-top: 100px;
+    background-color: #191a1d;
+}
+
+.home-section-image {
+    height: 270px;
+    width: 270px;
+    border-radius: 200px;
+}
+
+.home-section-heading {
+    color: white;
+    font-size: 40px;
+}
+
+.span {
+    color: #4b6cc1;
+    font-size: 45px;
+}
+
+.home-section-description {
+    color: #9aa5b1;
+    font-size: 23px;
+}
+
+.home-section-button {
+    height: 45px;
+    width: 130px;
+    border-radius: 7px;
+    border-width: 0px;
+    background-color: #4b6cc1;
+    color: white;
+}
+
+.about-me-section-bg-container {
+    background-color: #323f4b;
+    background-size: cover;
+}
+
+.about-me-section-sub-heading {
+    color: #cced00;
+    font-size: 20px;
+}
+
+.about-me-section-main-heading {
+    color: white;
+}
+
+.about-me-section-profile-image {
+    width: 100%;
+}
+
+.about-me-section-description {
+    color: #9aa5b1;
+    margin-bottom: 75px;
+}
+
+.about-me-section-footer-bg-container {
+    background-color: #1f2933;
+}
+
+.about-me-section-footer-skills-bg-container {
+    background-color: #323f4b;
+    background-size: cover;
+    border-radius: 10px;
+}
+
+.about-me-section-footer-image {
+    width: 70px;
+    height: 70px;
+    padding: 8px;
+}
+
+.about-me-section-footer-skills {
+    color: white;
+    font-size: 20px;
+    font-weight: bold;
+}
+
+.projects-section-bg-container {
+    background-color: #3e4c59;
+    background-size: cover;
+}
+
+.projects-section-sub-heading {
+    color: #cced00;
+    font-size: 20px;
+}
+
+.projects-section-main-heading {
+    color: white;
+    font-weight: bold;
+    font-size: 35px;
+}
+
+.projects-section-description-bg-container {
+    font-family: "Roboto";
+    background-color: #323f4b;
+    background-size: cover;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+    padding: 15px;
+    margin-bottom: 20px;
+}
+
+.projects-section-image {
+    height: 200px;
+    width: 100%;
+}
+
+.projects-section-style {
+    color: #9aa5b1;
+    font-size: 14px;
+}
+
+.projects-section-name {
+    color: white;
+    font-size: 25px;
+}
+
+.projects-section-description {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.projects-section-link {
+    color: #cced00;
+}
+
+.services-section-bg-container {
+    background-color: #52606d;
+    background-size: cover;
+}
+
+.services-section-sub-heading {
+    color: #cced00;
+    font-size: 20px;
+}
+
+.services-section-main-heading {
+    color: white;
+    font-size: 35px;
+}
+
+.services-section-card-bg-container {
+    background-color: #323f4b;
+    background-size: cover;
+    padding: 20px;
+    border-radius: 10px;
+    font-family: "Roboto";
+}
+
+.serivices-section-image {
+    height: 50px;
+    width: 50px;
+}
+
+.services-section-card-heading {
+    color: white;
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.services-section-card-description {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.testimonials-section-sub-heading {
+    color: #cced00;
+    font-size: 20px;
+}
+
+.testimonials-section-main-heading {
+    color: white;
+    font-size: 35px;
+    font-weight: bold;
+}
+
+.testimonials-section-bg-container {
+    background-color: #1f2933;
+    background-size: cover;
+    padding: 40px;
+}
+
+.testimonials-section-card-bg-container {
+    background-color: #323f4b;
+    background-size: cover;
+    padding: 20px;
+}
+
+.testimonials-section-image {
+    height: 100px;
+    width: 100px;
+    border-radius: 50px;
+}
+
+.testimonials-section-card-description {
+    color: #9aa5b1;
+    font-size: 20px;
+}
+
+.testimonials-section-card-name {
+    color: white;
+    font-size: 20px;
+}
+
+.footer-section-bg-container {
+    background-color: #0d2436;
+    font-family: "Roboto";
+}
+
+.footer-section-image {
+    height: 60px;
+    width: 60px;
+    border-radius: 50px;
+}
+
+.footer-section-sub-heading {
+    color: #cced00;
+    font-size: 18px;
+    font-weight: bold;
+}
+
+.footer-section-details {
+    color: #9aa5b1;
+    font-size: 14px;
+}
+
+.footer-bottom-section-bg-container {
+    background-color: #001c32;
+    text-align: center;
+}
+
+.footer-section-logo {
+    font-size: 17px;
+    color: #5a7184;
+}
+
+.work-done-section-bg-container {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/portfolio-work-done-bg.png");
+    background-size: cover;
+    color: white;
+}
+
+.work-done-section-hr-line {
+    background-color: white;
+    width: 40px;
+}
+
+.work-done-section-heading {
+    font-size: 25px;
+    font-weight: bold;
+}
+
+.work-done-section-description {
+    font-size: 10px;
+    margin-bottom: 40px;
+}
+
+.custom-button {
+    color: white;
+    background-image: linear-gradient(#d0b200, #a58d00);
+    width: 130px;
+    height: 45px;
+    border-width: 0;
+    border-radius: 8px;
+    margin-right: 10px;
+}
+
+.view {
+    font-family: "BreeSerif";
+    color: white;
+    height: 15px;
+    width: 35px;
+    text-align: center;
+    background-color: #3e4c59;
+    border-radius: 10px;
+    border-color: black;
+}
+
+.read-more-section-modal-title {
+    color: #cced00;
+    font-weight: 800;
+}
+
+.link {
+    color: #5a7184;
+    background-color: #202b36;
+    border-style: solid;
+    height: 45px;
+    width: 45px;
+    font-size: 18px;
+    text-align: center;
+    padding: 15px;
+    margin-top: 10px;
+    border-width: 0px;
+    border-radius: 40px;
+    margin: 2px;
+}
